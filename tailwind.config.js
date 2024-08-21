@@ -28,7 +28,7 @@ module.exports = {
       },
       fontFamily: {
         gilroy: ["Gilroy", "sans-serif"],
-        alata: ["Roboto", "sans-serif"],
+        avant: ["ITC Avant Garde Gothic Pro font", "sans-serif"],
       },
     },
   },
