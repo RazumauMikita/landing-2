@@ -62,6 +62,7 @@
 
 .gridContainer {
   display: grid;
+
   grid-template-columns: repeat(3, 1fr);
 }
 
@@ -86,4 +87,8 @@
     grid-column: 1;
     grid-row: 1;
   }
+}
+
+.active-point {
+  opacity: 1;
 }
